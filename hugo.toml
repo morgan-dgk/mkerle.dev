@@ -1,0 +1,3 @@
+baseURL = 'https://mkerle.dev/'
+languageCode = 'en-us'
+title = 'morgan'
