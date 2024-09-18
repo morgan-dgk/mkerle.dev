@@ -1,4 +1,4 @@
-baseURL = 'https://mkerle.dev/'
+baseURL = 'https://www.mkerle.dev/'
 languageCode = 'en-us'
 title = 'morgan'
 theme = 'hugo-theme-console'
